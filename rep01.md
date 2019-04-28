@@ -7,19 +7,24 @@
 
 ## 課題「GitHub マークダウンでできること」
 
-これ以降を書き換えて「マークダウンを理解している」ことを示す。
+これ以降を書き換えて「マークダウンを理解している」ことを示す
 
-## 達成目標
+‐マークダウン記法 
 
-- [ ] 見出しをつけることができる
-- [ ] 箇条書きができる
-- [ ] *斜体* や **太字** にできる
+# 見出し
+# This is an h1 tag
+## This is an h2 tag
+### This is an h3 tag
 
-## できる人のための追加課題
+## 強調
+*This txst will be italic*
+_This will also be italic_
+**This txst will be bold**
+__This will also be bold__
+_You **can** conbine them_ 
 
-- [ ] タスクリスト (task list) が使える
-- [ ] 引用（blockquote) が使える
-- [ ] 打ち消し線 (stroke) が使え~~ない~~る
-- [ ] インラインコード (`**太字**` など）が使える
-
-‐マークダウン記法
+### 箇条書き
+- 1.Item 1
+- 2.Item 2
+1. Item1 
+2. Item2
